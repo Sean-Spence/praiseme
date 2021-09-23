@@ -18,14 +18,14 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of praiseme is to praise someone that is feeling down
+The goal of praiseme is to ...
 
 ## Installation
 
 You can install the released version of praiseme from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("praise")
+install.packages("praiseme")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
@@ -39,7 +39,7 @@ devtools::install_github("Sean-Spence/praiseme")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(praise)
+library(praiseme)
 ## basic example code
 ```
 
